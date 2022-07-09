@@ -1,0 +1,10 @@
+The notion of this project is to simplify the way in which we
+interact with our devices. The feature of using image and
+voice recognition is much more intuitive than the traditional
+methods of inputting the data ourselves. It builds upon the
+need of the time to make things easier to use. And it doesn’t
+get more easier than using your own voice to get your work
+done. The project focuses on the basic applications of image
+and voice recognition which can be incorporated in our daily
+lives. It can be used to make simple calculations as well as get
+the physical written material in digital form.

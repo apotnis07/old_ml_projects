@@ -1,0 +1,5 @@
+tuple=(["A",1,3],5,"B",43,["X"])
+print("Displaying the tuple:",tuple)
+i=int(input("Enter the index of the element:"))
+print(tuple[i-1])
+print("The length of the tuple is:",len(tuple))
